@@ -1,0 +1,11 @@
+.filterLabel {
+    margin-right: 10px;
+}
+
+.filterField {
+    margin-right: 30px;
+}
+
+.flexItem {
+    flex-shrink: 0;
+}

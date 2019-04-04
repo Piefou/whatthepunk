@@ -1,0 +1,7 @@
+.submitButton {
+    margin-right: 30px;
+}
+
+.flexItem {
+    flex-shrink: 0;
+}
