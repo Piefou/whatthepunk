@@ -1,0 +1,8 @@
+.labelPage {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.flexItem {
+    flex-shrink: 0;
+}

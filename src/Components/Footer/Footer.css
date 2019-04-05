@@ -1,0 +1,8 @@
+.link {
+  border-bottom: 1px solid #444444;
+  color: #444444;
+  text-decoration: none;
+}
+.link:hover {
+  border-bottom: 0;
+}

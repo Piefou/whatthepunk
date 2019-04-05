@@ -1,0 +1,22 @@
+.link {
+    border-bottom: 1px solid #2244BB;
+    color: #2244BB;
+    text-decoration: none;
+  }
+  .link:hover {
+    border-bottom: 0;
+  }
+  
+.titleLink {
+  border-bottom: 0;
+  text-decoration: none;
+}
+
+.titleLink:visited {
+  color: #444444;
+}
+
+.titleLink:hover {
+  border-bottom: 1px solid #444444;
+  color: #444444;
+}
